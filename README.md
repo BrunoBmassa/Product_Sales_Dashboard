@@ -29,13 +29,13 @@ The dashboard includes interactive visualizations to help stakeholders understan
 
 ##  Screenshot
 
-![Dashboard Screenshot](dashboard_screenshot.png)  
+![Dashboard Screenshot](Dashboard_vendas.JPG)  
 
 
 ##  Files
 
-- `SalesDashboard.pbix` – Main Power BI dashboard file  
-- `dashboard_screenshot.png` – Image preview of the dashboard
+- `Proj_Vendas.pbix` – Main Power BI dashboard file  
+- `Dashboard_vendas.JPG` – Image preview of the dashboard
 
 ##  License
 
